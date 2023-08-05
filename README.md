@@ -1,4 +1,4 @@
-# 怪兽导航
+
 
 ## 开始之前
 
@@ -89,6 +89,4 @@ git push -u origin main
 * [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
 
 
-码农怪兽，一只喜欢研究技术、科技、思想、软件、资源、产品的非不正经的UP主！如果有任何问题可以关注怪兽的微信公众号及时留言反馈！
 
-![](images/码农怪兽公众号二维码.png)
