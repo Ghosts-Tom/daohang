@@ -8,9 +8,6 @@
 
 3、唯一需要的能力就是会简单使用Git、Github和简单的修改前端代码。
 
-## 演示效果
-
->体验地址：https://codermonster.top/
 
 1、日间模式
 
